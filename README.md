@@ -5,6 +5,7 @@ Overview:
 This project involves an in-depth exploratory data analysis (EDA) and visualization of the Heart Disease UCI dataset using Python. The dataset contains various medical attributes related to heart disease, and the goal is to analyze the data to uncover patterns, relationships, and insights that can help in understanding the factors contributing to heart disease.
 
 Key Features: 
+
 1.Data Exploration:
 
 The dataset is loaded and explored to understand its structure, including the shape, data types, and summary statistics.
